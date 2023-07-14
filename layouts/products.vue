@@ -10,7 +10,7 @@
         <div>
             <slot />
         </div>
-<!-- 
+
         <div>
             <footer>
             <ul>
@@ -19,7 +19,7 @@
                 <li><NuxtLink to = "/products">Products</NuxtLink></li>
             </ul>
         </footer>
-        </div> -->
+        </div>
     </div>
 </template>
 
